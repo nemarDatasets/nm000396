@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years (Miles, Weaver, Webb, Ojemann 2025)",
+  "description": "Resting-state intracranial electrocorticography (ECoG) recorded from 13 patients with epilepsy aged 3.4-33.9 years during clinical monitoring at Seattle Children's Hospital and Harborview Medical Center. Recordings use subdural grids and strips, with depth electrodes in some participants. The dataset supports study of how the alpha rhythm and intrinsic neural timescales change across development. It is re-packaged in iEEG-BIDS from the authors' Zenodo release without signal processing.",
+  "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Sampling rates ranged from 512 to 4800 Hz depending on site and system. Release CSV tables were converted losslessly to BrainVision float32 files with BIDS sidecars. No filtering, resampling, re-referencing or channel removal was applied.",
+  "license": "CC-BY-NC-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Jesse T. Miles": {
       "orcid": "0000-0002-4241-4733",
@@ -39,6 +44,34 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "ECoG"
+    },
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "resting state"
+    },
+    {
+      "term": "development"
+    },
+    {
+      "term": "pediatric epilepsy"
+    },
+    {
+      "term": "alpha rhythm"
+    },
+    {
+      "term": "intrinsic neural timescales"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.16954184",
@@ -74,14 +107,11 @@
       "funder_name": "Richard G. Ellenbogen Endowed Chair for Pediatric Neurosurgery"
     }
   ],
-  "title": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years (Miles, Weaver, Webb, Ojemann 2025)",
-  "license": "CC-BY-NC-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "4.57 GB (28 files)"
   ],
@@ -93,36 +123,6 @@
     ".vhdr",
     ".vmrk",
     ".zip"
-  ],
-  "description": "Resting-state electrocorticography (ECoG) recordings from 13 patients with epilepsy aged 3.4-33.9 years, acquired during intracranial monitoring at Seattle Children's Hospital and Harborview Medical Center. Recordings come from subdural grids and strips, with depth electrodes in some participants. The dataset was collected to study developmental relationships between the alpha rhythm and intrinsic neural timescales. It is re-packaged in iEEG-BIDS from the authors' Zenodo release without signal processing.",
-  "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Intracranial recordings used subdural grids and strips, plus depth electrodes in some participants. Sampling rates ranged from 512 to 4800 Hz depending on site and system. Release CSV tables were converted losslessly to BrainVision float32 with BIDS sidecars, with no filtering, resampling, re-referencing or channel removal.",
-  "keywords": [
-    {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    },
-    {
-      "term": "ECoG"
-    },
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "resting state"
-    },
-    {
-      "term": "development"
-    },
-    {
-      "term": "pediatric epilepsy"
-    },
-    {
-      "term": "alpha rhythm"
-    },
-    {
-      "term": "intrinsic neural timescales"
-    }
   ],
   "source_hash": "e76ab9054c507ff2aeca253ca93665c3e6f5c7a35511f0ca099c3273d5fe4983"
 }
