@@ -1,0 +1,16 @@
+{
+  "Name": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years (Miles, Weaver, Webb, Ojemann 2025)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-NC-4.0",
+  "Authors": ["Jesse T. Miles", "Kurt E. Weaver", "Sara Jane Webb", "Jeffrey G. Ojemann"],
+  "Acknowledgements": "Data release: Zenodo record 16954184 (creator: Jesse Miles, Seattle Children's Research Institute). BIDS conversion: ieeg-nemar-20261005 campaign (batch-3, lane W2); no signal processing applied.",
+  "HowToAcknowledge": "Please cite Miles JT, Weaver KE, Webb SJ, Ojemann JG. Developmental relationships between the human alpha rhythm and intrinsic neural timescales are dependent on neural hierarchy. Journal of Neurophysiology 135:143-152 (2026), doi:10.1152/jn.00435.2025 (preprint doi:10.1101/2025.08.21.671637), and the data record doi:10.5281/zenodo.16954184.",
+  "Funding": ["Richard G. Ellenbogen Endowed Chair for Pediatric Neurosurgery (JGO)"],
+  "EthicsApprovals": ["Participants were recruited from the epilepsy monitoring units at Seattle Children's Hospital and Harborview Medical Center; all gave informed consent (and assent or parental consent for minors) at the time of data collection; data were approved for retrospective review (Miles et al. 2025, Methods)."],
+  "ReferencesAndLinks": ["https://doi.org/10.1152/jn.00435.2025", "https://doi.org/10.1101/2025.08.21.671637", "https://doi.org/10.5281/zenodo.16954184"],
+  "DatasetDOI": "doi:10.5281/zenodo.16954184",
+  "Keywords": ["electrocorticography", "ECoG", "intracranial EEG", "resting state", "development", "pediatric epilepsy", "alpha rhythm", "intrinsic neural timescales"],
+  "SourceDatasets": [{"DOI": "doi:10.5281/zenodo.16954184", "URL": "https://zenodo.org/records/16954184", "Version": "Zenodo record 16954184 (published 2025-08-26)"}],
+  "GeneratedBy": [{"Name": "b3w2_convert_c-dev-ecog.py", "Description": "Lossless re-packaging of the release CSV tables into BrainVision (float32) with BIDS sidecars; no filtering, resampling, re-referencing or channel removal.", "CodeURL": "n/a"}]
+}

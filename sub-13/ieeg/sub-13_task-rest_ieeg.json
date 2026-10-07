@@ -1,0 +1,30 @@
+{
+  "iEEGReference": "Not documented in the release. The paper re-referenced to bipolar pairs for analysis; that step is not applied here.",
+  "TaskName": "rest",
+  "TaskDescription": "Dedicated resting-state period: participants were asked to lie quietly, upright, for at least three minutes before other research experiments (Miles et al. 2025).",
+  "InstitutionName": "Seattle Children's Hospital / Harborview Medical Center (site per participant not stated)",
+  "InstitutionAddress": "Seattle, Washington, USA",
+  "SamplingFrequency": 1000.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": {
+    "ReleaseChannelTable": {
+      "low_cutoff_Hz": "n/a",
+      "high_cutoff_Hz": "n/a",
+      "notch": [
+        "n/a"
+      ]
+    }
+  },
+  "ECOGChannelCount": 64,
+  "SEEGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "EEGChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingType": "continuous",
+  "RecordingDuration": 844.139,
+  "iEEGPlacementScheme": "8 x 8 L grid, 1 x 8 strips (4); coverage: Lateral peri-central, posterior temporal, parietal (Miles et al. 2025, Table 1)",
+  "iEEGElectrodeGroups": "8 x 8 L grid, 1 x 8 strips (4)",
+  "ElectricalStimulation": false
+}

@@ -1,0 +1,172 @@
+{
+  "runs": [
+    {
+      "sub": "01",
+      "release_folder": "sub01_86b2be",
+      "csv": "RestingState_86b2be_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 271440,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "02",
+      "release_folder": "sub02_d419f2",
+      "csv": "RestingState_d419f2_iEEG.csv",
+      "n_channels": 165,
+      "n_samples": 246273,
+      "sfreq": 512.0,
+      "first_sample": 4234240,
+      "units_in_release": [
+        "uV"
+      ]
+    },
+    {
+      "sub": "03",
+      "release_folder": "sub03_4ac2b6",
+      "csv": "RestingState_4ac2b6_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 2363360,
+      "sfreq": 4800.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "04",
+      "release_folder": "sub04_71944e",
+      "csv": "RestingState_71944e_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 439400,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "05",
+      "release_folder": "sub05_b387f2",
+      "csv": "RestingState_b387f2_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 591600,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "06",
+      "release_folder": "sub06_854490",
+      "csv": "RestingState_854490_iEEG.csv",
+      "n_channels": 48,
+      "n_samples": 581760,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "07",
+      "release_folder": "sub07_9d10c8",
+      "csv": "RestingState_9d10c8_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 577280,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "08",
+      "release_folder": "sub08_a9952e",
+      "csv": "RestingState_a9952e_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 579480,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "09",
+      "release_folder": "sub09_a29aee",
+      "csv": "RestingState_a29aee_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 642080,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "10",
+      "release_folder": "sub10_979eab",
+      "csv": "RestingState_979eab_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 590200,
+      "sfreq": 1200.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "11",
+      "release_folder": "sub11_693ffd",
+      "csv": "RestingState_693ffd_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 861952,
+      "sfreq": 1525.878906,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "12",
+      "release_folder": "sub12_fca96e",
+      "csv": "RestingState_fca96e_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 625320,
+      "sfreq": 1220.703125,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    },
+    {
+      "sub": "13",
+      "release_folder": "sub13_ecb43e",
+      "csv": "RestingState_ecb43e_iEEG.csv",
+      "n_channels": 64,
+      "n_samples": 844139,
+      "sfreq": 1000.0,
+      "first_sample": null,
+      "units_in_release": [
+        "unscaled"
+      ]
+    }
+  ],
+  "copied_sourcedata": [
+    {
+      "file": "/voyager/ceph/groups/sdp190/bpinto/ieeg-nemar-20261005/work/c-dev-ecog/bids/sourcedata/zenodo-16954184/Miles_Weaver_Webb_Ojemann_2025_iEEGData.zip",
+      "bytes": 2488660884,
+      "sha256": "330f331072426acd6bf9b971aeed67675e87a2d393ea27f87f0906a24b04a5da"
+    },
+    {
+      "file": "/voyager/ceph/groups/sdp190/bpinto/ieeg-nemar-20261005/work/c-dev-ecog/bids/sourcedata/zenodo-16954184/zenodo_record_16954184.json",
+      "bytes": 3882,
+      "sha256": "34014aeb18f22ba311d4be438d97d653c8cb8d0f3f7d62d1d6f23c0b730762d6"
+    }
+  ]
+}

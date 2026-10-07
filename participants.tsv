@@ -1,0 +1,14 @@
+participant_id	release_id	age	sex	group	electrodes	coverage	epileptiform_zones
+sub-01	86b2be	3.42	M	patient	8 x 8 L grid, 1 x 8 L depth (2)	Lateral peri-central and temporal	Superior post-central, inferior precentral (subclinical)
+sub-02	d419f2	4.67	F	patient	2 x 8 L strips (3), 1 x 8-16 L depth (10)	Frontal, peri-central, anterior parietal	Anterior frontal and frontal depth (subclinical)
+sub-03	4ac2b6	6.67	F	patient	8 x 8 L grid, 1 x 8 L strips (2)	Lateral peri-central and temporal	Peri-central discharges (subclinical)
+sub-04	71944e	7.25	F	patient	8 x 8 R grid, 2 x 8 R strips, 1 x 8 R strip	Lateral peri-central	Superior and middle frontal
+sub-05	b387f2	10.33	F	patient	8 x 8 R grid	Lateral peri-central and temporal	Peri-central
+sub-06	854490	10.75	F	patient	8 x 8 L grid, 1 x 8-12 L strips (2)	Posterior parietal and temporal	Posterior and middle/inferior temporal
+sub-07	9d10c8	13.33	M	patient	8 x 8 L grid, 1 x 8 L strips (3)	Lateral peri-central and temporal	Middle/inferior temporal
+sub-08	a9952e	15.33	F	patient	8 x 8 L grid, 4 x 8 L grid, 2 x 8 strips, 1 x 8-12 strips (2), 1 x 8 depth	Peri-central to parietal cortices (posterior grid)	Posterior parietal
+sub-09	a29aee	15.92	M	patient	8 x 8 R grid, 1 x 8 R depth (2)	Posterior frontal, lateral peri-central, parietal	Not captured
+sub-10	979eab	20.75	M	patient	8 x 8 L grid (split), 2 x 8 L strips, 1 x 8 L strips	Parietal and posterior temporal	Superior parietal cortex, temporal interictal spikes
+sub-11	693ffd	26.25	M	patient	8 x 8 R grid	Posterior frontal, lateral peri-central, parietal	Right fronto-parietal cortex
+sub-12	fca96e	31.33	F	patient	8 x 8 R grid, 2 x 8 R strips, 1 x 6/8 R strips (4)	Lateral peri-central, temporal, parietal	Lateral, superior, posterior right temporal, mesial temporal
+sub-13	ecb43e	33.92	M	patient	8 x 8 L grid, 1 x 8 strips (4)	Lateral peri-central, posterior temporal, parietal	Lateral, inferior left parietal

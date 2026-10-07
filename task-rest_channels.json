@@ -1,0 +1,8 @@
+{
+  "units": {"Description": "Physical unit. The release channel tables list the ECoG units as 'unscaled' for 12 of the 13 participants (values as exported from the acquisition system, scale factor not given); these are written as n/a here and as 'unscaled' in the BrainVision header. sub-02 is in microvolts (release: uV)."},
+  "notch": {"Description": "Notch filter range as listed in the release channel table (Hz); n/a when the release lists 0 or nothing"},
+  "low_cutoff": {"Description": "High-pass cutoff (Hz) as listed in the release channel table; n/a when blank", "Units": "Hz"},
+  "high_cutoff": {"Description": "Low-pass cutoff (Hz) as listed in the release channel table; n/a when blank", "Units": "Hz"},
+  "status_description": {"Description": "Status description from the release channel table ('keep for referencing'), or a converter note"},
+  "analysis_region": {"Description": "Gyrus assigned to this channel in the release montage file (the channels analysed by Miles et al. 2025: MFG, PrCG, PoCG, SMG, STG, MTG); n/a for channels not in the montage file"}
+}

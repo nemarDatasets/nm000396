@@ -1,0 +1,166 @@
+name	type	units	low_cutoff	high_cutoff	notch	sampling_frequency	status	status_description	analysis_region
+ST_1-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_2-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_3-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_4-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Superior_temporal_gyrus
+ST_5-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Superior_temporal_gyrus
+ST_6-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_7-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_8-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_9-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_10-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_11-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_12-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_13-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_14-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+ST_15-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Supramarginal_gyrus
+ST_16-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Supramarginal_gyrus
+IF_1-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_2-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_3-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_4-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_5-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_6-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Precentral_gyrus
+IF_7-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_8-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Postcentral_gyrus
+IF_9-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_10-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_11-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_12-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_13-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_14-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Precentral_gyrus
+IF_15-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+IF_16-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Postcentral_gyrus
+SF_1-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_2-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_3-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_4-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_5-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Middle_frontal_gyrus
+SF_6-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_7-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_8-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_9-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_10-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_11-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_12-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_13-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	Middle_frontal_gyrus
+SF_14-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_15-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+SF_16-Ref	ECOG	µV	n/a	n/a	n/a	512.0	good	keep for referencing	n/a
+A'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+A'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_11-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+B'_12-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_11-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_12-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_13-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_14-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_15-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+H'_16-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_11-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_12-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_13-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_14-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_15-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+I'_16-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+J'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_11-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_12-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_13-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_14-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_15-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+O'_16-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+P'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+R'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+C154-Ref	MISC	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table	n/a
+S'_1-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_2-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_3-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_4-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_5-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_6-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_7-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_8-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_9-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+S'_10-Ref	SEEG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table; type from the channel name (depth electrode names as in the ROSA planning file)	n/a
+EKG-Ref	ECG	µV	n/a	n/a	n/a	512.0	n/a	not listed in the release channel table	n/a

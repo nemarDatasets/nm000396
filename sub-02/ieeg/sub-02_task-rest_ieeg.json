@@ -1,0 +1,31 @@
+{
+  "iEEGReference": "Not documented in the release. The paper re-referenced to bipolar pairs for analysis; that step is not applied here. Channel names end in \"-Ref\" (referential recording).",
+  "TaskName": "rest",
+  "TaskDescription": "Dedicated resting-state period: participants were asked to lie quietly, upright, for at least three minutes before other research experiments (Miles et al. 2025).",
+  "InstitutionName": "Seattle Children's Hospital / Harborview Medical Center (site per participant not stated)",
+  "InstitutionAddress": "Seattle, Washington, USA",
+  "SamplingFrequency": 512.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": {
+    "ReleaseChannelTable": {
+      "low_cutoff_Hz": "n/a",
+      "high_cutoff_Hz": "n/a",
+      "notch": [
+        "n/a"
+      ]
+    }
+  },
+  "ECOGChannelCount": 48,
+  "SEEGChannelCount": 115,
+  "ECGChannelCount": 1,
+  "MiscChannelCount": 1,
+  "EEGChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingType": "continuous",
+  "RecordingDuration": 481.001953125,
+  "iEEGPlacementScheme": "2 x 8 L strips (3), 1 x 8-16 L depth (10); coverage: Frontal, peri-central, anterior parietal (Miles et al. 2025, Table 1)",
+  "iEEGElectrodeGroups": "2 x 8 L strips (3), 1 x 8-16 L depth (10)",
+  "ElectricalStimulation": false,
+  "RecordingDescription": "Excerpt of a longer clinical recording: first sample index 4234240, i.e. 8270.0 s after the start of the source file (release Sample/Time columns)."
+}
