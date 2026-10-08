@@ -53,3 +53,17 @@ the sub02 anatomical labels and the sub08 note) and the Zenodo record metadata.
 ## License
 
 CC-BY-NC-4.0
+
+## Additional metadata and localisation (added 2026-10-08)
+
+Compiled after the upload from the article, its supplement and the source deposit (each statement names its source). Text and sidecar metadata only; no data file was changed.
+
+**Recording system.** Sampled "at a minimum of 512 Hz and maximum of 4800 Hz (depending on acquisition system and site)" (preprint Methods "Signal processing"); per-subject rates in the deposit channels.txt: 1200 Hz (9 subjects), 512, 4800, 1525.88, 1220.70 and 1000 Hz. channels.txt lists low_cutoff 0, high_cutoff 500, notch 58-62, units "unscaled" (deposit, e.g. sub06 channels.txt). Amplifier make: n/a (not stated).
+
+**Reference scheme.** The deposit CSVs hold the recorded channels; the paper analysed bipolar pairs of two adjacent contacts within the same gyrus (preprint Methods). channels.txt status_description reads "keep for referencing". Original recording reference: n/a.
+
+**Electrode types.** Subdural grids (8x8, 4x8) and strips, some patients also with depth electrodes (preprint Table 1). Deposit note sub08_a9952e/note.txt: "1-32 are parietal half grid (left); 33-48 are intrahemispheric strip (left); 49-64 are empty channels".
+
+**Localisation method.** "ECoG contact locations were identified by clinical MRI reconstructions aligned to CT scans. Electrode orientations (and, by extension, channel numbering) were cross-referenced to a combination of intra-operative placement photos, surgical notes, and clinical monitoring notes." "Gyri were identified based on automated registration of Harvard-Oxford atlas labels to patient clinical neuroimaging using the Localizing Electrodes GUI and manual inspection of co-registered CT and T1-weighted MR images." (preprint Methods). The deposit montage.csv per subject gives the gyrus of each analysed contact (empty `ch` = gyrus not analysed for that subject). No coordinates or imaging are deposited. For sub02 the deposit also contains d419f2_Anatomical_Labels.txt (ROSA-planned depth electrodes A'-S', 116 contacts, atlas labels "not independently verified"); those depth channels are not part of the deposited resting-state recording.
+
+These gyrus labels are now in the `anat_label` column of each `*_electrodes.tsv` (n/a for contacts that montage.csv does not list).

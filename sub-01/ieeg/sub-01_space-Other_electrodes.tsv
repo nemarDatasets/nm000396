@@ -1,65 +1,65 @@
-name	x	y	z	size	group
-GRID1	n/a	n/a	n/a	n/a	GRID
-GRID2	n/a	n/a	n/a	n/a	GRID
-GRID3	n/a	n/a	n/a	n/a	GRID
-GRID4	n/a	n/a	n/a	n/a	GRID
-GRID5	n/a	n/a	n/a	n/a	GRID
-GRID6	n/a	n/a	n/a	n/a	GRID
-GRID7	n/a	n/a	n/a	n/a	GRID
-GRID8	n/a	n/a	n/a	n/a	GRID
-GRID9	n/a	n/a	n/a	n/a	GRID
-GRID10	n/a	n/a	n/a	n/a	GRID
-GRID11	n/a	n/a	n/a	n/a	GRID
-GRID12	n/a	n/a	n/a	n/a	GRID
-GRID13	n/a	n/a	n/a	n/a	GRID
-GRID14	n/a	n/a	n/a	n/a	GRID
-GRID15	n/a	n/a	n/a	n/a	GRID
-GRID16	n/a	n/a	n/a	n/a	GRID
-GRID17	n/a	n/a	n/a	n/a	GRID
-GRID18	n/a	n/a	n/a	n/a	GRID
-GRID19	n/a	n/a	n/a	n/a	GRID
-GRID20	n/a	n/a	n/a	n/a	GRID
-GRID21	n/a	n/a	n/a	n/a	GRID
-GRID22	n/a	n/a	n/a	n/a	GRID
-GRID23	n/a	n/a	n/a	n/a	GRID
-GRID24	n/a	n/a	n/a	n/a	GRID
-GRID25	n/a	n/a	n/a	n/a	GRID
-GRID26	n/a	n/a	n/a	n/a	GRID
-GRID27	n/a	n/a	n/a	n/a	GRID
-GRID28	n/a	n/a	n/a	n/a	GRID
-GRID29	n/a	n/a	n/a	n/a	GRID
-GRID30	n/a	n/a	n/a	n/a	GRID
-GRID31	n/a	n/a	n/a	n/a	GRID
-GRID32	n/a	n/a	n/a	n/a	GRID
-GRID33	n/a	n/a	n/a	n/a	GRID
-GRID34	n/a	n/a	n/a	n/a	GRID
-GRID35	n/a	n/a	n/a	n/a	GRID
-GRID36	n/a	n/a	n/a	n/a	GRID
-GRID37	n/a	n/a	n/a	n/a	GRID
-GRID38	n/a	n/a	n/a	n/a	GRID
-GRID39	n/a	n/a	n/a	n/a	GRID
-GRID40	n/a	n/a	n/a	n/a	GRID
-GRID41	n/a	n/a	n/a	n/a	GRID
-GRID42	n/a	n/a	n/a	n/a	GRID
-GRID43	n/a	n/a	n/a	n/a	GRID
-GRID44	n/a	n/a	n/a	n/a	GRID
-GRID45	n/a	n/a	n/a	n/a	GRID
-GRID46	n/a	n/a	n/a	n/a	GRID
-GRID47	n/a	n/a	n/a	n/a	GRID
-GRID48	n/a	n/a	n/a	n/a	GRID
-GRID49	n/a	n/a	n/a	n/a	GRID
-GRID50	n/a	n/a	n/a	n/a	GRID
-GRID51	n/a	n/a	n/a	n/a	GRID
-GRID52	n/a	n/a	n/a	n/a	GRID
-GRID53	n/a	n/a	n/a	n/a	GRID
-GRID54	n/a	n/a	n/a	n/a	GRID
-GRID55	n/a	n/a	n/a	n/a	GRID
-GRID56	n/a	n/a	n/a	n/a	GRID
-GRID57	n/a	n/a	n/a	n/a	GRID
-GRID58	n/a	n/a	n/a	n/a	GRID
-GRID59	n/a	n/a	n/a	n/a	GRID
-GRID60	n/a	n/a	n/a	n/a	GRID
-GRID61	n/a	n/a	n/a	n/a	GRID
-GRID62	n/a	n/a	n/a	n/a	GRID
-GRID63	n/a	n/a	n/a	n/a	GRID
-GRID64	n/a	n/a	n/a	n/a	GRID
+name	x	y	z	size	group	anat_label
+GRID1	n/a	n/a	n/a	n/a	GRID	n/a
+GRID2	n/a	n/a	n/a	n/a	GRID	n/a
+GRID3	n/a	n/a	n/a	n/a	GRID	n/a
+GRID4	n/a	n/a	n/a	n/a	GRID	n/a
+GRID5	n/a	n/a	n/a	n/a	GRID	n/a
+GRID6	n/a	n/a	n/a	n/a	GRID	n/a
+GRID7	n/a	n/a	n/a	n/a	GRID	Middle_temporal_gyrus
+GRID8	n/a	n/a	n/a	n/a	GRID	Middle_temporal_gyrus
+GRID9	n/a	n/a	n/a	n/a	GRID	n/a
+GRID10	n/a	n/a	n/a	n/a	GRID	n/a
+GRID11	n/a	n/a	n/a	n/a	GRID	n/a
+GRID12	n/a	n/a	n/a	n/a	GRID	Superior_temporal_gyrus
+GRID13	n/a	n/a	n/a	n/a	GRID	Superior_temporal_gyrus
+GRID14	n/a	n/a	n/a	n/a	GRID	n/a
+GRID15	n/a	n/a	n/a	n/a	GRID	n/a
+GRID16	n/a	n/a	n/a	n/a	GRID	n/a
+GRID17	n/a	n/a	n/a	n/a	GRID	n/a
+GRID18	n/a	n/a	n/a	n/a	GRID	n/a
+GRID19	n/a	n/a	n/a	n/a	GRID	n/a
+GRID20	n/a	n/a	n/a	n/a	GRID	n/a
+GRID21	n/a	n/a	n/a	n/a	GRID	n/a
+GRID22	n/a	n/a	n/a	n/a	GRID	n/a
+GRID23	n/a	n/a	n/a	n/a	GRID	n/a
+GRID24	n/a	n/a	n/a	n/a	GRID	n/a
+GRID25	n/a	n/a	n/a	n/a	GRID	n/a
+GRID26	n/a	n/a	n/a	n/a	GRID	n/a
+GRID27	n/a	n/a	n/a	n/a	GRID	n/a
+GRID28	n/a	n/a	n/a	n/a	GRID	Postcentral_gyrus
+GRID29	n/a	n/a	n/a	n/a	GRID	n/a
+GRID30	n/a	n/a	n/a	n/a	GRID	n/a
+GRID31	n/a	n/a	n/a	n/a	GRID	n/a
+GRID32	n/a	n/a	n/a	n/a	GRID	n/a
+GRID33	n/a	n/a	n/a	n/a	GRID	n/a
+GRID34	n/a	n/a	n/a	n/a	GRID	Precentral_gyrus
+GRID35	n/a	n/a	n/a	n/a	GRID	n/a
+GRID36	n/a	n/a	n/a	n/a	GRID	Postcentral_gyrus
+GRID37	n/a	n/a	n/a	n/a	GRID	n/a
+GRID38	n/a	n/a	n/a	n/a	GRID	Supramarginal_gyrus
+GRID39	n/a	n/a	n/a	n/a	GRID	n/a
+GRID40	n/a	n/a	n/a	n/a	GRID	n/a
+GRID41	n/a	n/a	n/a	n/a	GRID	n/a
+GRID42	n/a	n/a	n/a	n/a	GRID	Precentral_gyrus
+GRID43	n/a	n/a	n/a	n/a	GRID	n/a
+GRID44	n/a	n/a	n/a	n/a	GRID	n/a
+GRID45	n/a	n/a	n/a	n/a	GRID	n/a
+GRID46	n/a	n/a	n/a	n/a	GRID	Supramarginal_gyrus
+GRID47	n/a	n/a	n/a	n/a	GRID	n/a
+GRID48	n/a	n/a	n/a	n/a	GRID	n/a
+GRID49	n/a	n/a	n/a	n/a	GRID	Middle_frontal_gyrus
+GRID50	n/a	n/a	n/a	n/a	GRID	n/a
+GRID51	n/a	n/a	n/a	n/a	GRID	n/a
+GRID52	n/a	n/a	n/a	n/a	GRID	n/a
+GRID53	n/a	n/a	n/a	n/a	GRID	n/a
+GRID54	n/a	n/a	n/a	n/a	GRID	n/a
+GRID55	n/a	n/a	n/a	n/a	GRID	n/a
+GRID56	n/a	n/a	n/a	n/a	GRID	n/a
+GRID57	n/a	n/a	n/a	n/a	GRID	Middle_frontal_gyrus
+GRID58	n/a	n/a	n/a	n/a	GRID	n/a
+GRID59	n/a	n/a	n/a	n/a	GRID	n/a
+GRID60	n/a	n/a	n/a	n/a	GRID	n/a
+GRID61	n/a	n/a	n/a	n/a	GRID	n/a
+GRID62	n/a	n/a	n/a	n/a	GRID	n/a
+GRID63	n/a	n/a	n/a	n/a	GRID	n/a
+GRID64	n/a	n/a	n/a	n/a	GRID	n/a

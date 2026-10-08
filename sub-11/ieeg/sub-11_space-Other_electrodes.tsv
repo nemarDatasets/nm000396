@@ -1,65 +1,65 @@
-name	x	y	z	size	group
-ch1	n/a	n/a	n/a	n/a	ch
-ch2	n/a	n/a	n/a	n/a	ch
-ch3	n/a	n/a	n/a	n/a	ch
-ch4	n/a	n/a	n/a	n/a	ch
-ch5	n/a	n/a	n/a	n/a	ch
-ch6	n/a	n/a	n/a	n/a	ch
-ch7	n/a	n/a	n/a	n/a	ch
-ch8	n/a	n/a	n/a	n/a	ch
-ch9	n/a	n/a	n/a	n/a	ch
-ch10	n/a	n/a	n/a	n/a	ch
-ch11	n/a	n/a	n/a	n/a	ch
-ch12	n/a	n/a	n/a	n/a	ch
-ch13	n/a	n/a	n/a	n/a	ch
-ch14	n/a	n/a	n/a	n/a	ch
-ch15	n/a	n/a	n/a	n/a	ch
-ch16	n/a	n/a	n/a	n/a	ch
-ch17	n/a	n/a	n/a	n/a	ch
-ch18	n/a	n/a	n/a	n/a	ch
-ch19	n/a	n/a	n/a	n/a	ch
-ch20	n/a	n/a	n/a	n/a	ch
-ch21	n/a	n/a	n/a	n/a	ch
-ch22	n/a	n/a	n/a	n/a	ch
-ch23	n/a	n/a	n/a	n/a	ch
-ch24	n/a	n/a	n/a	n/a	ch
-ch25	n/a	n/a	n/a	n/a	ch
-ch26	n/a	n/a	n/a	n/a	ch
-ch27	n/a	n/a	n/a	n/a	ch
-ch28	n/a	n/a	n/a	n/a	ch
-ch29	n/a	n/a	n/a	n/a	ch
-ch30	n/a	n/a	n/a	n/a	ch
-ch31	n/a	n/a	n/a	n/a	ch
-ch32	n/a	n/a	n/a	n/a	ch
-ch33	n/a	n/a	n/a	n/a	ch
-ch34	n/a	n/a	n/a	n/a	ch
-ch35	n/a	n/a	n/a	n/a	ch
-ch36	n/a	n/a	n/a	n/a	ch
-ch37	n/a	n/a	n/a	n/a	ch
-ch38	n/a	n/a	n/a	n/a	ch
-ch39	n/a	n/a	n/a	n/a	ch
-ch40	n/a	n/a	n/a	n/a	ch
-ch41	n/a	n/a	n/a	n/a	ch
-ch42	n/a	n/a	n/a	n/a	ch
-ch43	n/a	n/a	n/a	n/a	ch
-ch44	n/a	n/a	n/a	n/a	ch
-ch45	n/a	n/a	n/a	n/a	ch
-ch46	n/a	n/a	n/a	n/a	ch
-ch47	n/a	n/a	n/a	n/a	ch
-ch48	n/a	n/a	n/a	n/a	ch
-ch49	n/a	n/a	n/a	n/a	ch
-ch50	n/a	n/a	n/a	n/a	ch
-ch51	n/a	n/a	n/a	n/a	ch
-ch52	n/a	n/a	n/a	n/a	ch
-ch53	n/a	n/a	n/a	n/a	ch
-ch54	n/a	n/a	n/a	n/a	ch
-ch55	n/a	n/a	n/a	n/a	ch
-ch56	n/a	n/a	n/a	n/a	ch
-ch57	n/a	n/a	n/a	n/a	ch
-ch58	n/a	n/a	n/a	n/a	ch
-ch59	n/a	n/a	n/a	n/a	ch
-ch60	n/a	n/a	n/a	n/a	ch
-ch61	n/a	n/a	n/a	n/a	ch
-ch62	n/a	n/a	n/a	n/a	ch
-ch63	n/a	n/a	n/a	n/a	ch
-ch64	n/a	n/a	n/a	n/a	ch
+name	x	y	z	size	group	anat_label
+ch1	n/a	n/a	n/a	n/a	ch	n/a
+ch2	n/a	n/a	n/a	n/a	ch	n/a
+ch3	n/a	n/a	n/a	n/a	ch	n/a
+ch4	n/a	n/a	n/a	n/a	ch	n/a
+ch5	n/a	n/a	n/a	n/a	ch	n/a
+ch6	n/a	n/a	n/a	n/a	ch	n/a
+ch7	n/a	n/a	n/a	n/a	ch	n/a
+ch8	n/a	n/a	n/a	n/a	ch	n/a
+ch9	n/a	n/a	n/a	n/a	ch	n/a
+ch10	n/a	n/a	n/a	n/a	ch	n/a
+ch11	n/a	n/a	n/a	n/a	ch	n/a
+ch12	n/a	n/a	n/a	n/a	ch	n/a
+ch13	n/a	n/a	n/a	n/a	ch	n/a
+ch14	n/a	n/a	n/a	n/a	ch	n/a
+ch15	n/a	n/a	n/a	n/a	ch	Middle_frontal_gyrus
+ch16	n/a	n/a	n/a	n/a	ch	n/a
+ch17	n/a	n/a	n/a	n/a	ch	n/a
+ch18	n/a	n/a	n/a	n/a	ch	n/a
+ch19	n/a	n/a	n/a	n/a	ch	n/a
+ch20	n/a	n/a	n/a	n/a	ch	n/a
+ch21	n/a	n/a	n/a	n/a	ch	n/a
+ch22	n/a	n/a	n/a	n/a	ch	n/a
+ch23	n/a	n/a	n/a	n/a	ch	Middle_frontal_gyrus
+ch24	n/a	n/a	n/a	n/a	ch	n/a
+ch25	n/a	n/a	n/a	n/a	ch	n/a
+ch26	n/a	n/a	n/a	n/a	ch	n/a
+ch27	n/a	n/a	n/a	n/a	ch	n/a
+ch28	n/a	n/a	n/a	n/a	ch	n/a
+ch29	n/a	n/a	n/a	n/a	ch	n/a
+ch30	n/a	n/a	n/a	n/a	ch	n/a
+ch31	n/a	n/a	n/a	n/a	ch	n/a
+ch32	n/a	n/a	n/a	n/a	ch	n/a
+ch33	n/a	n/a	n/a	n/a	ch	n/a
+ch34	n/a	n/a	n/a	n/a	ch	n/a
+ch35	n/a	n/a	n/a	n/a	ch	n/a
+ch36	n/a	n/a	n/a	n/a	ch	n/a
+ch37	n/a	n/a	n/a	n/a	ch	n/a
+ch38	n/a	n/a	n/a	n/a	ch	Precentral_gyrus
+ch39	n/a	n/a	n/a	n/a	ch	Precentral_gyrus
+ch40	n/a	n/a	n/a	n/a	ch	n/a
+ch41	n/a	n/a	n/a	n/a	ch	n/a
+ch42	n/a	n/a	n/a	n/a	ch	n/a
+ch43	n/a	n/a	n/a	n/a	ch	Supramarginal_gyrus
+ch44	n/a	n/a	n/a	n/a	ch	n/a
+ch45	n/a	n/a	n/a	n/a	ch	Postcentral_gyrus
+ch46	n/a	n/a	n/a	n/a	ch	Postcentral_gyrus
+ch47	n/a	n/a	n/a	n/a	ch	n/a
+ch48	n/a	n/a	n/a	n/a	ch	n/a
+ch49	n/a	n/a	n/a	n/a	ch	n/a
+ch50	n/a	n/a	n/a	n/a	ch	n/a
+ch51	n/a	n/a	n/a	n/a	ch	Supramarginal_gyrus
+ch52	n/a	n/a	n/a	n/a	ch	n/a
+ch53	n/a	n/a	n/a	n/a	ch	n/a
+ch54	n/a	n/a	n/a	n/a	ch	n/a
+ch55	n/a	n/a	n/a	n/a	ch	n/a
+ch56	n/a	n/a	n/a	n/a	ch	n/a
+ch57	n/a	n/a	n/a	n/a	ch	n/a
+ch58	n/a	n/a	n/a	n/a	ch	n/a
+ch59	n/a	n/a	n/a	n/a	ch	n/a
+ch60	n/a	n/a	n/a	n/a	ch	n/a
+ch61	n/a	n/a	n/a	n/a	ch	n/a
+ch62	n/a	n/a	n/a	n/a	ch	Superior_temporal_gyrus
+ch63	n/a	n/a	n/a	n/a	ch	Superior_temporal_gyrus
+ch64	n/a	n/a	n/a	n/a	ch	n/a

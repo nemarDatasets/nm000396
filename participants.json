@@ -30,5 +30,20 @@
   },
   "epileptiform_zones": {
     "Description": "Epileptiform zones (Table 1)"
+  },
+  "diagnosis": {
+    "Description": "Source: preprint Introduction ('monitoring for treatment-resistant epilepsy')"
+  },
+  "implant_type": {
+    "Description": "ECoG grids/strips; '(+depth)' when Table 1 lists depth electrodes",
+    "Source": "bioRxiv preprint doi:10.1101/2025.08.21.671637 (Miles, Weaver, Webb, Ojemann 2025) Table 1 'Electrodes'"
+  },
+  "implanted_hemisphere": {
+    "Description": "From L/R in Table 1 Electrodes column",
+    "Source": "bioRxiv preprint doi:10.1101/2025.08.21.671637 (Miles, Weaver, Webb, Ojemann 2025) Table 1"
+  },
+  "regions_analyzed": {
+    "Description": "Verbatim 'Analyzed' column (MFG, PrCG, PoCG, SMG, STG, MTG)",
+    "Source": "bioRxiv preprint doi:10.1101/2025.08.21.671637 (Miles, Weaver, Webb, Ojemann 2025) Table 1"
   }
 }

@@ -1,5 +1,8 @@
 {
   "group": {
     "Description": "Electrode (grid/strip/shaft) name: channel name without its trailing contact number"
+  },
+  "anat_label": {
+    "Description": "Gyrus of the contact as assigned by the authors (Harvard-Oxford atlas labels registered to the patient's imaging with the Localizing Electrodes GUI plus manual CT/T1 inspection; Miles et al. preprint doi:10.1101/2025.08.21.671637, Methods), from the deposit's per-subject montage.csv. n/a: contact not listed in montage.csv (only the 2 analysed contacts per gyrus are labelled)."
   }
 }
