@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years (Miles, Weaver, Webb, Ojemann 2025)",
-  "description": "Resting-state intracranial electrocorticography (ECoG) recordings from 13 patients with epilepsy aged 3.4-33.9 years, acquired with subdural grids and strips and, in some participants, depth electrodes during clinical monitoring in Seattle. The dataset supports study of developmental relationships between the alpha rhythm and intrinsic neural timescales across the cortical hierarchy. It is a lossless iEEG-BIDS re-packaging of the authors' Zenodo release, with no filtering, resampling or re-referencing applied.",
-  "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Recordings were made with subdural grids, strips and some depth electrodes at sampling rates of 512-4800 Hz, depending on site and acquisition system. Contact locations were identified from clinical MRI reconstructions aligned to CT, and gyri were labelled by registering Harvard-Oxford atlas labels to each patient's imaging. Release CSV tables were converted to BrainVision float32 files with BIDS sidecars.",
+  "description": "Resting-state electrocorticography (ECoG) recordings from 13 patients with epilepsy aged 3.4 to 33.9 years, acquired with subdural grids and strips (plus depth electrodes in some participants) during intracranial monitoring in Seattle. The dataset supports study of developmental changes in the alpha rhythm and intrinsic neural timescales across the cortical hierarchy. Data are re-packaged in iEEG-BIDS without signal processing from the authors' public Zenodo release.",
+  "methods_description": "Participants lay quietly upright for at least three minutes of dedicated resting state before other research experiments. Recordings were made at 512-4800 Hz depending on site and acquisition system, with subdural grids, strips and some depth electrodes. Electrode locations were identified from clinical MRI aligned to CT, with gyri labelled via Harvard-Oxford atlas registration. CSV exports were converted losslessly to BrainVision float32 with BIDS sidecars, with no filtering, resampling or re-referencing.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -47,7 +47,8 @@
   "keywords": [
     {
       "term": "Electrocorticography",
-      "subject_scheme": "MeSH"
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     },
     {
       "term": "ECoG"
@@ -124,5 +125,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "44df80e59a21cf112eb1dde269ad33596c9c193b887e43f87124879609d94f1a"
+  "source_hash": "d31c4b82a0d5c667c230e8b671cbcdefbffc2bc8c03da7c72caa9e3ff919a85c"
 }
