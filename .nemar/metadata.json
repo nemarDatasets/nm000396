@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years (Miles, Weaver, Webb, Ojemann 2025)",
-  "description": "Resting-state intracranial electrocorticography (ECoG) recorded from 13 patients with epilepsy aged 3.4-33.9 years during clinical monitoring at Seattle Children's Hospital and Harborview Medical Center. Recordings use subdural grids and strips, with depth electrodes in some participants. The dataset supports study of how the alpha rhythm and intrinsic neural timescales change across development. It is re-packaged in iEEG-BIDS from the authors' Zenodo release without signal processing.",
-  "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Sampling rates ranged from 512 to 4800 Hz depending on site and system. Release CSV tables were converted losslessly to BrainVision float32 files with BIDS sidecars. No filtering, resampling, re-referencing or channel removal was applied.",
+  "description": "Resting-state intracranial electrocorticography (ECoG) recordings from 13 patients with epilepsy aged 3.4-33.9 years, acquired with subdural grids and strips and, in some participants, depth electrodes during clinical monitoring in Seattle. The dataset supports study of developmental relationships between the alpha rhythm and intrinsic neural timescales across the cortical hierarchy. It is a lossless iEEG-BIDS re-packaging of the authors' Zenodo release, with no filtering, resampling or re-referencing applied.",
+  "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Recordings were made with subdural grids, strips and some depth electrodes at sampling rates of 512-4800 Hz, depending on site and acquisition system. Contact locations were identified from clinical MRI reconstructions aligned to CT, and gyri were labelled by registering Harvard-Oxford atlas labels to each patient's imaging. Release CSV tables were converted to BrainVision float32 files with BIDS sidecars.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -47,8 +47,7 @@
   "keywords": [
     {
       "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+      "subject_scheme": "MeSH"
     },
     {
       "term": "ECoG"
@@ -122,7 +121,8 @@
     ".tsv",
     ".vhdr",
     ".vmrk",
+    ".yml",
     ".zip"
   ],
-  "source_hash": "e76ab9054c507ff2aeca253ca93665c3e6f5c7a35511f0ca099c3273d5fe4983"
+  "source_hash": "44df80e59a21cf112eb1dde269ad33596c9c193b887e43f87124879609d94f1a"
 }
