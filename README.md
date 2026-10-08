@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000396-blue)](https://doi.org/10.82901/nemar.nm000396)
+
 # Developmental ECoG (Miles, Weaver, Webb, Ojemann 2025): resting-state electrocorticography, ages 3-33
 
 Resting-state intracranial recordings (subdural grids and strips; depth electrodes in some participants) from **13
