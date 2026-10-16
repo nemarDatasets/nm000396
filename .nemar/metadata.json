@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Miles-2026-developmental-10.1152/jn.00435.2025",
+  "title": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years",
   "description": "Resting-state intracranial electrocorticography (ECoG) recorded from 13 patients with epilepsy aged 3.4-33.9 years during clinical monitoring at Seattle Children's Hospital and Harborview Medical Center. Recordings use subdural grids and strips, with depth electrodes in some participants. The data support analysis of developmental relationships between the alpha rhythm and intrinsic neural timescales across the cortical hierarchy. They are re-packaged in iEEG-BIDS from a public Zenodo release without signal processing.",
   "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Sampling rates ranged from 512 to 4800 Hz depending on site and acquisition system. Electrode locations were identified from clinical MRI reconstructions aligned to CT, and gyri were labelled by registering Harvard-Oxford atlas labels to patient imaging. The release CSV tables were converted losslessly to BrainVision float32 files with no filtering, resampling or re-referencing.",
   "license": "CC-BY-NC-4.0",
@@ -125,5 +125,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "4d4cc28fa4d2700aadb9dd3c2477d68c44dbb639ef284726fe795a5cfab9f74f"
+  "source_hash": "af199c02e991473cf32eb0ca593e572518f73b27b355fda3381b23d8876d4573"
 }
