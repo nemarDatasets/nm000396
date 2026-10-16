@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Developmental ECoG: resting-state electrocorticography from 13 epilepsy patients aged 3-33 years (Miles, Weaver, Webb, Ojemann 2025)",
-  "description": "Resting-state electrocorticography (ECoG) recordings from 13 patients with epilepsy aged 3.4 to 33.9 years, acquired with subdural grids and strips (plus depth electrodes in some participants) during intracranial monitoring in Seattle. The dataset supports study of developmental changes in the alpha rhythm and intrinsic neural timescales across the cortical hierarchy. Data are re-packaged in iEEG-BIDS without signal processing from the authors' public Zenodo release.",
-  "methods_description": "Participants lay quietly upright for at least three minutes of dedicated resting state before other research experiments. Recordings were made at 512-4800 Hz depending on site and acquisition system, with subdural grids, strips and some depth electrodes. Electrode locations were identified from clinical MRI aligned to CT, with gyri labelled via Harvard-Oxford atlas registration. CSV exports were converted losslessly to BrainVision float32 with BIDS sidecars, with no filtering, resampling or re-referencing.",
+  "title": "Miles-2026-developmental-10.1152/jn.00435.2025",
+  "description": "Resting-state intracranial electrocorticography (ECoG) recorded from 13 patients with epilepsy aged 3.4-33.9 years during clinical monitoring at Seattle Children's Hospital and Harborview Medical Center. Recordings use subdural grids and strips, with depth electrodes in some participants. The data support analysis of developmental relationships between the alpha rhythm and intrinsic neural timescales across the cortical hierarchy. They are re-packaged in iEEG-BIDS from a public Zenodo release without signal processing.",
+  "methods_description": "Participants lay quietly and upright for at least three minutes of resting state before other research experiments. Sampling rates ranged from 512 to 4800 Hz depending on site and acquisition system. Electrode locations were identified from clinical MRI reconstructions aligned to CT, and gyri were labelled by registering Harvard-Oxford atlas labels to patient imaging. The release CSV tables were converted losslessly to BrainVision float32 files with no filtering, resampling or re-referencing.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -125,5 +125,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "d31c4b82a0d5c667c230e8b671cbcdefbffc2bc8c03da7c72caa9e3ff919a85c"
+  "source_hash": "4d4cc28fa4d2700aadb9dd3c2477d68c44dbb639ef284726fe795a5cfab9f74f"
 }
