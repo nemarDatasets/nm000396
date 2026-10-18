@@ -1,3 +1,7 @@
+1.0.3 2026-10-19
+  - Units: sub-11 and sub-12 ECoG declared V in channels.tsv and the .vhdr headers (were n/a / unscaled), inferred from the TDT sampling rates and volt-sized values; the 2 .vhdr files are now plain git files (were annexed).
+  - README.md: section "Units" with the per-participant magnitudes and a "Reading with MNE" note for the 11 participants whose unit stays n/a. Data unchanged.
+
 1.0.2 2026-10-16
   - The publication-year attribution was omitted because the reviewed README and cited article years conflict. Update generated metadata title and source hash.
 
