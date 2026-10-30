@@ -1,3 +1,7 @@
+1.0.3 2026-10-30
+
+  - State volts for the two volt-scale participants
+
 1.0.2 2026-10-16
   - The publication-year attribution was omitted because the reviewed README and cited article years conflict. Update generated metadata title and source hash.
 
